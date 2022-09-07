@@ -1,0 +1,23 @@
+.users-main form input {
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid white;
+    width: 165px;
+    outline: 0;
+}
+
+.users-main form button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #0066ff;
+    color: white;
+    border: 2px solid #0066ff;
+    outline: 0;
+  }
+  
+  .users-main form  button:hover{
+    background-color: #003399;
+    cursor: pointer;
+    border: 2px solid #0066ff;
+  }
